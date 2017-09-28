@@ -5,3 +5,4 @@ oli tänään, että koko päivä pitäisi olla pilvistä, mutta nyt on aivan si
 päivä tehdä koulutöitä, mutta nyt tekee mieli mennä ulos TT vaikkakin on kyllä aika väsy ja deadline huomenna :'D
 Nää tehtävät on kyllä aika helppoja.
 Tämä rivi lisättiin Githubissa nyt menen selvittämään miten saan sen näkymään myös komentorivillä :)
+Nyt pitää kirjoittaa tänne jotain ja komentoriviltä sit mikä oli lempitehtävä ja kattoo ku ei voikkaa pullaa.
