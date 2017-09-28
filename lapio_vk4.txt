@@ -1,0 +1,6 @@
+Tämä on lapio-kurssin neljännen viikon harjoitus 6. Tässä harjoituksessa piti luoda tiedosto (tämä) lapio_vk4 ja 
+kirjoittaa nänne ainakin kolme riviä. Nyt kirjoitan vasta toista riviä. Toisaalta olen venyttänyt komentoriviä
+aika leveäksi, joten voisi ajatella, että tässä on jo useampi rivi, jos pitäisin ikkunaa pienempänä. Sääennusteessa
+oli tänään, että koko päivä pitäisi olla pilvistä, mutta nyt on aivan sininen taivas. Ajattelin, että tänään on hyvä
+päivä tehdä koulutöitä, mutta nyt tekee mieli mennä ulos TT vaikkakin on kyllä aika väsy ja deadline huomenna :'D
+Nää tehtävät on kyllä aika helppoja.
