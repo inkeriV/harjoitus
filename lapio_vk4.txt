@@ -4,3 +4,4 @@ aika leveäksi, joten voisi ajatella, että tässä on jo useampi rivi, jos pit�
 oli tänään, että koko päivä pitäisi olla pilvistä, mutta nyt on aivan sininen taivas. Ajattelin, että tänään on hyvä
 päivä tehdä koulutöitä, mutta nyt tekee mieli mennä ulos TT vaikkakin on kyllä aika väsy ja deadline huomenna :'D
 Nää tehtävät on kyllä aika helppoja.
+Tämä rivi lisättiin Githubissa nyt menen selvittämään miten saan sen näkymään myös komentorivillä :)
